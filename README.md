@@ -2,7 +2,7 @@
 
 * Expand the Single image on user Click **[if possible]** .
 
-![Wall-Gallary](https://github.com/CodeNerd-Utkarsh/my-app/blob/main/SnapShot.jpeg)
+![Wall-Gallary](https://github.com/CodeNerd-Utkarsh/picture-gallery/blob/master/SnapShot.jpeg)
 
 # Getting Started with Create React App
 
